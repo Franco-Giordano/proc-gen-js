@@ -1,11 +1,20 @@
 # Procedural Generation Tests
-Applying Perlin Noise and WFC, using mainly p5js.
+Projects applying Perlin Noise and WFC, using mainly p5js.
 
 
 ## Perlin Noise
 
-![Loop](./8secLoopCalmer.gif)
 
-![Lab](./3secLab.gif)
+<p align="center">
+  <img src="./8secLoopCalmer.gif" height="500" width="500">
+</p>
 
-![Land](./5secLand.gif)
+
+<p align="center">
+  <img src="./3secLab.gif" height="500" width="500">
+</p>
+
+
+<p align="center">
+  <img src="./5secLand.gif" height="500" width="500">
+</p>
